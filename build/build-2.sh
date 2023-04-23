@@ -16,7 +16,7 @@ gnome-terminal-data gnome-themes-extra gnome-themes-extra-data gnome-todo \
 gnome-todo-common gnome-user-docs gnome-video-effects \
 nautilus-extension-gnome-terminal pinentry-gnome3 yaru-theme-gnome-shell;
 do apt-get purge -y $pkg; done
-apt autoremove
+apt autoremove -y
 apt-get install -y software-properties-gtk
 
 # Run the remix script
@@ -31,22 +31,22 @@ bash remix.sh && apt-get autoremove -y --purge
 #cd .. && rm -r newkernel
 #from https://9to5linux.com/you-can-now-install-linux-kernel-6-1-on-ubuntu-heres-how
 
-apt upgrade
-apt-get autoremove
-apt-get autoclean
-apt dist-upgrade
-apt-get autoremove
-apt-get autoclean
+apt upgrade -y
+apt-get autoremove -y
+apt-get autoclean -y
+apt dist-upgrade -y
+apt-get autoremove -y
+apt-get autoclean -y
 #-from https://elias.praciano.com/2014/08/apt-get-quais-as-diferencas-entre-autoremove-autoclean-e-clean/
-apt --fix-broken install
+apt --fix-broken install -y
 apt-get autoremove -y --purge
 
 echo "- Installing the broken packages, efibootmgr and grub..."
-apt-get install efibootmgr grub-efi-amd64-bin grub-efi-amd64-signed
+apt-get install efibootmgr grub-efi-amd64-bin grub-efi-amd64-signed -y
 
 # Clean up
 update-initramfs -k all -u
-apt-get clean
+apt-get clean -y
 rm -f /var/lib/apt/lists/*_Packages
 rm -f /var/lib/apt/lists/*_Sources
 rm -f /var/lib/apt/lists/*_Translation-*
