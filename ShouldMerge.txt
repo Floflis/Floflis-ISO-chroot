@@ -1,0 +1,4 @@
+https://github.com/ubuntucinnamon/iso-builder-old-archive
+https://github.com/ubuntucinnamon/iso-builder-devel
+https://github.com/ubuntucinnamon/raspi-img-builder
+https://github.com/ubuntucinnamon/seeds/tree/ubuntu.jammy
