@@ -1,0 +1,52 @@
+This folder: /media/daniella/ceb6a175-7104-43d8-8064-48e6ef72cd27/flic/include/Floflis-ISO-chroot
+
+  File: ./arm64+raspi
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,81	Inode: 47980545    Links: 4
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-11 17:17:32.089739888 -0300
+Modify: 2023-12-11 17:16:59.640245184 -0300
+Change: 2023-12-11 17:16:59.640245184 -0300
+ Birth: 2023-12-11 16:42:47.929349179 -0300
+IPFS hash: 
+------------------------------
+  File: ./LICENSE
+  Size: 35078     	Blocks: 72         IO Block: 4096   regular file
+Device: 8,81	Inode: 47972727    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-11 16:46:46.744694195 -0300
+Modify: 2023-12-11 16:42:47.933349167 -0300
+Change: 2023-12-11 16:46:17.480766046 -0300
+ Birth: 2023-12-11 16:42:47.933349167 -0300
+IPFS hash: QmVqAnEQJVzyUGM1f7CM8F3QTfg1PGR8yvnNUm8jCWHX69
+------------------------------
+  File: ./README.md
+  Size: 584       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,81	Inode: 47972704    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-11 17:07:00.921628931 -0300
+Modify: 2023-12-11 17:06:50.560114708 -0300
+Change: 2023-12-11 17:06:50.916167547 -0300
+ Birth: 2023-12-11 17:06:50.560114708 -0300
+IPFS hash: Qmf2SYv5UmaUAAqeNuoWkYjmVJMNcoecHMqL8vpMf8oQGP
+------------------------------
+  File: ./Untitled Folder
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,81	Inode: 47980614    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-11 17:21:48.059156357 -0300
+Modify: 2023-12-11 17:21:48.047156569 -0300
+Change: 2023-12-11 17:21:48.047156569 -0300
+ Birth: 2023-12-11 17:21:48.047156569 -0300
+IPFS hash: 
+------------------------------
+  File: ./x86
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,81	Inode: 47980573    Links: 4
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-11 16:46:17.492766016 -0300
+Modify: 2023-12-11 16:46:17.484766036 -0300
+Change: 2023-12-11 16:46:17.484766036 -0300
+ Birth: 2023-12-11 16:38:55.166190831 -0300
+IPFS hash: 
+------------------------------

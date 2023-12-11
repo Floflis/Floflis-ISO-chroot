@@ -13,3 +13,7 @@ The script that modifies a ISO in its chroot, preparing it for Floflis being lat
 
 Run `sudo make && sudo make clean` (or `su`) after the cloning this repo
 <!--Run `sudo make && sudo make clean` (or `su`) after the cloning this repo from either [GitHub](https://github.com/Ubuntu-Remixes/Ubuntu-Cinnamon) or [GitLab](https://gitlab.com/ubuntu-unity/ubuntu-remixes/ubuntu-cinnamon).-->
+
+## About
+
+Floflis-ISO-chroot is part of [FLIC - FLoflis Iso Creator](https://github.com/Floflis/flic/), and some parts will be merged futurely.
