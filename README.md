@@ -1,6 +1,6 @@
-# Ubuntu Cinnamon (Ubuntu Remixes)
+#  Floflis-ISO-chroot
 
-A remix of Ubuntu using Cinnamon as the desktop environment.
+The script that modifies a ISO in its chroot, preparing it for Floflis being later installed via Cubic.
 
 ## Build dependencies
 
