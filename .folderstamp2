@@ -1,0 +1,22 @@
+This folder: /media/daniella/ceb6a175-7104-43d8-8064-48e6ef72cd27/flic/buildfiles/x86/Floflis-ISO-chroot
+
+  File: ./arm64+raspi
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,81	Inode: 47980609    Links: 3
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-11 16:28:29.890581107 -0300
+Modify: 2023-12-11 16:26:25.176149434 -0300
+Change: 2023-12-11 16:26:33.756030126 -0300
+ Birth: 2023-12-11 16:26:29.856084131 -0300
+IPFS hash: 
+------------------------------
+  File: ./x86
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,81	Inode: 47980545    Links: 4
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-12-11 16:25:43.184760433 -0300
+Modify: 2023-12-11 16:25:16.745169411 -0300
+Change: 2023-12-11 16:25:36.636859917 -0300
+ Birth: 2023-12-11 16:25:32.788918926 -0300
+IPFS hash: 
+------------------------------
