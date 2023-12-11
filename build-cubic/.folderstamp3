@@ -1,0 +1,212 @@
+This folder: /media/daniella/ceb6a175-7104-43d8-8064-48e6ef72cd27/flic/buildfiles/x86/Ubuntu-Cinnamon-ISO-Build/build-cubic
+
+  File: ./6.cinnamonMANTIC/build.sh
+  Size: 2560      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241146    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 06:56:19.540879291 -0300
+Modify: 2023-04-23 14:55:26.187930475 -0300
+Change: 2023-09-09 15:16:25.495893615 -0300
+ Birth: 2023-09-09 15:16:25.331892944 -0300
+IPFS hash: QmNwuCPRon7KmoyqhorXUKDp8kzeYjNzAURwxfrKWKBW8e
+------------------------------
+  File: ./6.cinnamonMANTIC/remix.sh
+  Size: 2266      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241148    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 15:18:00.984288343 -0300
+Modify: 2023-09-09 15:18:00.988288360 -0300
+Change: 2023-09-09 15:18:01.420290163 -0300
+ Birth: 2023-09-09 15:18:00.984288343 -0300
+IPFS hash: Qmdts67ZxJriavhhtHhVBn2N9obxAn86dZny6ncY15K3D8
+------------------------------
+  File: ./4.cinnamonnognonorecommends/build.sh
+  Size: 2560      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241143    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 06:56:19.540879291 -0300
+Modify: 2023-04-23 14:55:26.187930475 -0300
+Change: 2023-09-09 06:07:31.748830543 -0300
+ Birth: 2023-09-09 06:07:31.684829874 -0300
+IPFS hash: QmNwuCPRon7KmoyqhorXUKDp8kzeYjNzAURwxfrKWKBW8e
+------------------------------
+  File: ./4.cinnamonnognonorecommends/remix.sh
+  Size: 2313      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241144    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 14:15:46.117872542 -0300
+Modify: 2023-09-09 06:09:05.957796509 -0300
+Change: 2023-09-09 14:15:44.209869194 -0300
+ Birth: 2023-09-09 14:14:14.833767218 -0300
+IPFS hash: QmW2B9mSWdmd3bPagEG1HmxmxzUMuefhzv6rB4WBH3WY4y
+------------------------------
+  File: ./3.cinnamonnogno/remix-0.sh
+  Size: 2280      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241135    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 04:13:16.471390619 -0300
+Modify: 2023-09-09 02:59:44.860329656 -0300
+Change: 2023-09-09 03:24:33.578135301 -0300
+ Birth: 2023-09-09 03:23:07.303997946 -0300
+IPFS hash: QmPQwpMBSiP8JYoXiLwCqHny9DezchscHj66Pd1L4LY7NF
+------------------------------
+  File: ./3.cinnamonnogno/build.sh
+  Size: 2560      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241134    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 04:13:16.455390370 -0300
+Modify: 2023-04-23 14:55:26.187930475 -0300
+Change: 2023-09-09 02:35:02.830408181 -0300
+ Birth: 2023-09-09 02:35:02.830408181 -0300
+IPFS hash: QmNwuCPRon7KmoyqhorXUKDp8kzeYjNzAURwxfrKWKBW8e
+------------------------------
+  File: ./3.cinnamonnogno/remix.sh
+  Size: 2289      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241138    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 04:13:16.471390619 -0300
+Modify: 2023-09-09 04:12:43.878859795 -0300
+Change: 2023-09-09 04:12:44.922877533 -0300
+ Birth: 2023-09-09 04:12:43.874859727 -0300
+IPFS hash: QmZ4sfSeaVMhSnU8dUioqiVWsrAoLbNYBCdv92CDvX5ADc
+------------------------------
+  File: ./3.cinnamonnogno/remix-1.sh
+  Size: 2289      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241137    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 04:13:16.471390619 -0300
+Modify: 2023-09-09 03:24:24.003991024 -0300
+Change: 2023-09-09 04:12:16.626378915 -0300
+ Birth: 2023-09-09 03:24:23.983994936 -0300
+IPFS hash: QmNtBTwx1UyAVHP7R5qhtGpq43TEY718vVoaDTwnsxKd2T
+------------------------------
+  File: ./.folderstamp2
+  Size: 4450      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,65	Inode: 47972589    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:33:51.295653375 -0300
+Modify: 2023-09-09 02:33:51.595647734 -0300
+Change: 2023-09-09 02:33:57.963528854 -0300
+ Birth: 2023-09-09 02:33:50.743663764 -0300
+IPFS hash: QmVzihhsKaxEwCT6CfPM2Ar5oEcainH8pRkrrUCbsxWtM6
+------------------------------
+  File: ./.folderstamp1
+  Size: 2029      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972521    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:33:51.007658790 -0300
+Modify: 2023-09-08 14:30:17.148476832 -0300
+Change: 2023-09-09 02:33:45.283767209 -0300
+ Birth: 2023-09-08 14:30:16.436464076 -0300
+IPFS hash: QmS4VFPXB6Q6bu1dCpbNwo1LuCYqy4SpW36QEkPLxTyq3B
+------------------------------
+  File: ./1.cinnamonwithgnome/remix-2.sh
+  Size: 1659      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972590    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:33:51.163655857 -0300
+Modify: 2023-09-09 00:05:30.963820578 -0300
+Change: 2023-09-09 02:32:59.924675795 -0300
+ Birth: 2023-09-09 00:05:30.963820578 -0300
+IPFS hash: QmTF3C9uNwvDwKWaP3p58p6pgwDTyZ4ueFYufv3wCvtxXx
+------------------------------
+  File: ./1.cinnamonwithgnome/remix.sh
+  Size: 1827      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972591    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:33:51.231654578 -0300
+Modify: 2023-09-09 01:55:59.144012741 -0300
+Change: 2023-09-09 02:33:30.708049472 -0300
+ Birth: 2023-09-09 01:55:59.136012488 -0300
+IPFS hash: QmS28Cjk8Nbuj3waLeTLykqM5FzVPugYsb87KDrzKS6wUS
+------------------------------
+  File: ./.folderstamp
+  Size: 5926      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,65	Inode: 47972592    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 15:21:19.896515900 -0300
+Modify: 2023-09-09 15:21:20.956541761 -0300
+Change: 2023-09-09 15:21:20.956541761 -0300
+ Birth: 2023-09-09 15:21:19.896515900 -0300
+IPFS hash: QmW4dLtBUsaaB8a9gaH2CeXiYGE1M74ZZzJZ7zwLwbLDbH
+------------------------------
+  File: ./2.cinnamon-repeat/build.sh
+  Size: 2560      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972518    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:33:51.363652096 -0300
+Modify: 2023-04-23 14:55:26.187930475 -0300
+Change: 2023-09-09 02:32:47.008951257 -0300
+ Birth: 2023-04-23 15:11:39.274738926 -0300
+IPFS hash: QmNwuCPRon7KmoyqhorXUKDp8kzeYjNzAURwxfrKWKBW8e
+------------------------------
+  File: ./2.cinnamon-repeat/remix.sh
+  Size: 1834      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241133    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:35:02.830408181 -0300
+Modify: 2023-09-09 02:34:57.010502293 -0300
+Change: 2023-09-09 02:34:57.394496050 -0300
+ Birth: 2023-09-09 02:34:56.986502683 -0300
+IPFS hash: QmSYWmo2BUAr9eVRCwW9jghS1mgrjedokMBrZs5LJP1GBv
+------------------------------
+  File: ./0./remix-0.sh
+  Size: 1034      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972445    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:33:51.479649915 -0300
+Modify: 2023-04-24 13:17:46.692190692 -0300
+Change: 2023-09-09 02:33:41.391841703 -0300
+ Birth: 2023-04-24 13:17:46.692190692 -0300
+IPFS hash: QmX36YfBf3NcwsuTNqDhpXpAB5iyqvQowae87ABjbXybVb
+------------------------------
+  File: ./0./remix-1.sh
+  Size: 1038      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972587    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:33:51.535648863 -0300
+Modify: 2023-04-24 13:26:10.188170251 -0300
+Change: 2023-09-09 02:33:41.395841626 -0300
+ Birth: 2023-04-24 13:26:10.184170251 -0300
+IPFS hash: QmfMTQMNqY5FKnTzaoTVg5m94tuVUgzZLvXizaj9EEUyAa
+------------------------------
+  File: ./ubuntu-23.04-desktop-legacy-amd64.iso.weborigin
+  Size: 88        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972522    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-08 14:30:17.144476761 -0300
+Modify: 2023-04-23 14:18:53.534571724 -0300
+Change: 2023-04-23 15:12:26.595409520 -0300
+ Birth: 2023-04-23 15:11:39.366740256 -0300
+IPFS hash: QmXj3iwYWKjGLFcRZisAUFr8HUxntaH7KyQrKX3TGZayfC
+------------------------------
+  File: ./5.maybegobacktoOldCinn/remix-0.sh
+  Size: 1038      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241139    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 04:31:16.031339086 -0300
+Modify: 2023-04-24 13:26:10.188170251 -0300
+Change: 2023-09-09 04:31:13.722906378 -0300
+ Birth: 2023-09-09 04:30:32.334840335 -0300
+IPFS hash: QmfMTQMNqY5FKnTzaoTVg5m94tuVUgzZLvXizaj9EEUyAa
+------------------------------
+  File: ./5.maybegobacktoOldCinn/build.sh
+  Size: 2560      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241140    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 04:13:16.455390370 -0300
+Modify: 2023-04-23 14:55:26.187930475 -0300
+Change: 2023-09-09 04:30:47.985960568 -0300
+ Birth: 2023-09-09 04:30:47.981959781 -0300
+IPFS hash: QmNwuCPRon7KmoyqhorXUKDp8kzeYjNzAURwxfrKWKBW8e
+------------------------------
+  File: ./5.maybegobacktoOldCinn/remix.sh
+  Size: 1345      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241145    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 15:09:14.658247375 -0300
+Modify: 2023-09-09 15:09:14.658247375 -0300
+Change: 2023-09-09 15:09:14.726247611 -0300
+ Birth: 2023-09-09 15:09:14.658247375 -0300
+IPFS hash: QmRx4cdLyRUeEbAT5WbmhCBSgXBdbqhYuDzR4Kd1VM7MET
+------------------------------

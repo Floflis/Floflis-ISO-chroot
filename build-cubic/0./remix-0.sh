@@ -13,7 +13,7 @@ apt-get install -y gnome-shell --no-install-recommends && apt-get purge -y gnome
 
 cat > /usr/share/glib-2.0/schemas/90_ubuntucinnamon-wallpaper.gschema.override <<EOF
 [org.gnome.desktop.background]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/jammy/ubuntu_cinnamon_jammy_jellyfish.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg'
 EOF
 
 apt-get install -y plymouth-theme-ubuntucinnamon-spinner

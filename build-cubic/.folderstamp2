@@ -1,0 +1,92 @@
+This folder: /media/daniella/ceb6a175-7104-43d8-8064-48e6ef72cd27/flic/buildfiles/x86/Ubuntu-Cinnamon-ISO-Build/build-cubic
+
+  File: ./.folderstamp1
+  Size: 2029      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972521    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-08 14:30:16.436464076 -0300
+Modify: 2023-09-08 14:30:17.148476832 -0300
+Change: 2023-09-09 02:33:45.283767209 -0300
+ Birth: 2023-09-08 14:30:16.436464076 -0300
+IPFS hash: QmS4VFPXB6Q6bu1dCpbNwo1LuCYqy4SpW36QEkPLxTyq3B
+------------------------------
+  File: ./1.cinnamonwithgnome/remix-2.sh
+  Size: 1659      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972590    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 01:39:31.330661890 -0300
+Modify: 2023-09-09 00:05:30.963820578 -0300
+Change: 2023-09-09 02:32:59.924675795 -0300
+ Birth: 2023-09-09 00:05:30.963820578 -0300
+IPFS hash: QmTF3C9uNwvDwKWaP3p58p6pgwDTyZ4ueFYufv3wCvtxXx
+------------------------------
+  File: ./1.cinnamonwithgnome/remix.sh
+  Size: 1827      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972591    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:33:12.788408976 -0300
+Modify: 2023-09-09 01:55:59.144012741 -0300
+Change: 2023-09-09 02:33:30.708049472 -0300
+ Birth: 2023-09-09 01:55:59.136012488 -0300
+IPFS hash: QmS28Cjk8Nbuj3waLeTLykqM5FzVPugYsb87KDrzKS6wUS
+------------------------------
+  File: ./.folderstamp
+  Size: 1569      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972589    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:33:50.743663764 -0300
+Modify: 2023-09-09 02:33:51.239654428 -0300
+Change: 2023-09-09 02:33:51.239654428 -0300
+ Birth: 2023-09-09 02:33:50.743663764 -0300
+IPFS hash: QmRWFXCZJPWmYHo8VRvC9Eavk2cMLBS4J6izAMJHmHUbqp
+------------------------------
+  File: ./2.cinnamonnogno/build.sh
+  Size: 2560      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972518    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-08 14:29:57.940130638 -0300
+Modify: 2023-04-23 14:55:26.187930475 -0300
+Change: 2023-09-09 02:32:47.008951257 -0300
+ Birth: 2023-04-23 15:11:39.274738926 -0300
+IPFS hash: QmNwuCPRon7KmoyqhorXUKDp8kzeYjNzAURwxfrKWKBW8e
+------------------------------
+  File: ./2.cinnamonnogno/remix.sh
+  Size: 1827      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 48241131    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:33:12.788408976 -0300
+Modify: 2023-09-09 01:55:59.144012741 -0300
+Change: 2023-09-09 02:33:12.788408976 -0300
+ Birth: 2023-09-09 02:33:12.632412169 -0300
+IPFS hash: QmS28Cjk8Nbuj3waLeTLykqM5FzVPugYsb87KDrzKS6wUS
+------------------------------
+  File: ./0./remix-0.sh
+  Size: 1034      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972445    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:33:27.516112490 -0300
+Modify: 2023-04-24 13:17:46.692190692 -0300
+Change: 2023-09-09 02:33:41.391841703 -0300
+ Birth: 2023-04-24 13:17:46.692190692 -0300
+IPFS hash: QmX36YfBf3NcwsuTNqDhpXpAB5iyqvQowae87ABjbXybVb
+------------------------------
+  File: ./0./remix-1.sh
+  Size: 1038      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972587    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-09 02:31:34.706642668 -0300
+Modify: 2023-04-24 13:26:10.188170251 -0300
+Change: 2023-09-09 02:33:41.395841626 -0300
+ Birth: 2023-04-24 13:26:10.184170251 -0300
+IPFS hash: QmfMTQMNqY5FKnTzaoTVg5m94tuVUgzZLvXizaj9EEUyAa
+------------------------------
+  File: ./ubuntu-23.04-desktop-legacy-amd64.iso.weborigin
+  Size: 88        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,65	Inode: 47972522    Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-08 14:30:17.144476761 -0300
+Modify: 2023-04-23 14:18:53.534571724 -0300
+Change: 2023-04-23 15:12:26.595409520 -0300
+ Birth: 2023-04-23 15:11:39.366740256 -0300
+IPFS hash: QmXj3iwYWKjGLFcRZisAUFr8HUxntaH7KyQrKX3TGZayfC
+------------------------------
