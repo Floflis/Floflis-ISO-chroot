@@ -3,6 +3,8 @@
 add-apt-repository -y --no-update universe
 add-apt-repository -y multiverse
 
+add-apt-repository -y ppa:ubuntucinnamonremix/all
+
 apt-get install -y casper expect gparted ubuntucinnamon-desktop \
  cifs-utils language-pack-en language-pack-gnome-en \
  xfsprogs jfsutils reiserfsprogs shim-signed shim ntfs-3g lvm2 \
@@ -13,21 +15,16 @@ apt-get install -y gnome-shell --no-install-recommends && apt-get purge -y gnome
 
 cat > /usr/share/glib-2.0/schemas/90_ubuntucinnamon-wallpaper.gschema.override <<EOF
 [org.gnome.desktop.background]
-picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/lunar/ubuntu_cinnamon_lunar_lobster.jpg'
+picture-uri='file:///usr/share/backgrounds/ubuntucinnamon/jammy/ubuntu_cinnamon_jammy_jellyfish.jpg'
 EOF
 
-<<<<<<<< HEAD:x86/build-cubic/0./remix-0.sh
-========
 apt-get install -y gdm3 metacity xfwm4
 
->>>>>>>> 28f56ba9188abef0d47a8671a758c30860fc6eec:x86/old-branch/jammy/build/remix.sh
 apt-get install -y plymouth-theme-ubuntucinnamon-spinner
 
 glib-compile-schemas /usr/share/glib-2.0/schemas/
 
 apt-get purge -y budgie-core --auto-remove
-apt-get purge -y kinetic-core --auto-remove
-apt-get purge -y lunar-core --auto-remove
 
 apt-get -y autoremove
 apt-get -y clean
